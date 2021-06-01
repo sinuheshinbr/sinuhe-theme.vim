@@ -5,7 +5,7 @@ information:
 
 palette:
     fg: "#eff0eb"
-    bg: "#191919"
+    bg: "#333333"
 
     red: "#CF7777"
     error_red: "#bf4040"
@@ -132,21 +132,21 @@ highlights:
     TSFuncMacro: "yellow"
     TSParameter: "purple"
     TSParameterReference: "blue"
-    TSMethod: "blue"
+    TSMethod: "red"
     TSField: "red"
-    TSProperty: "orange - i"
-    TSConstructor: "blue"
+    TSProperty: "green"
+    TSConstructor: "red"
     # Keywords
     TSConditional: "purple"
     TSRepeat: "purple"
     TSLabel: "blue"
     # Does not work for yield and return they should be diff then class and def
-    TSKeyword: "purple"
+    TSKeyword: "green"
     TSKeywordFunction: "#FF00FF"
     TSKeywordOperator: "purple"
     TSOperator: "purple"
     TSException: "purple"
-    TSType: "yellow"
+    # TSType: "blue"
     TSTypeBuiltin: "blue"
     TSStructure: "#FF00FF"
     TSInclude: "green"
@@ -162,7 +162,7 @@ highlights:
     TSLiteral: "#FFFF00"
     TSURI: "#FFFF00"
     # Tags
-    TSTag: "red"
+    TSTag: "blue"
     TSTagDelimiter: "line_grey"
     # -- END Treesitter --
 

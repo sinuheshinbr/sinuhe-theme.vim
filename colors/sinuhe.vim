@@ -7,7 +7,7 @@ if exists('syntax_on')
 endif
 let g:colors_name='sinuhe'
 
-hi Normal guifg=#7587a6 ctermfg=103 guibg=#191919 ctermbg=234 gui=NONE cterm=NONE
+hi Normal guifg=#7587a6 ctermfg=103 guibg=#333333 ctermbg=236 gui=NONE cterm=NONE
 hi Comment guifg=#606580 ctermfg=60 guibg=NONE ctermbg=NONE gui=italic cterm=italic
 hi Constant guifg=#d3b373 ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi String guifg=#8f9d6a ctermfg=107 guibg=NONE ctermbg=NONE gui=italic cterm=italic
@@ -42,7 +42,7 @@ hi Underlined guifg=#7587a6 ctermfg=103 gui=underline cterm=underline
 hi Cursor guifg=NONE ctermfg=NONE guibg=NONE ctermbg=NONE gui=reverse cterm=reverse
 hi ColorColumn guifg=NONE ctermfg=NONE guibg=#3a3d4d ctermbg=238 gui=NONE cterm=NONE
 hi CursorLineNr guifg=#f1f1f0 ctermfg=255 guibg=NONE ctermbg=NONE gui=bold cterm=bold
-hi SignColumn guifg=NONE ctermfg=NONE guibg=#191919 ctermbg=234 gui=NONE cterm=NONE
+hi SignColumn guifg=NONE ctermfg=NONE guibg=#333333 ctermbg=236 gui=NONE cterm=NONE
 hi Conceal guifg=NONE ctermfg=NONE guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi CursorColumn guifg=NONE ctermfg=NONE guibg=#3a3d4d ctermbg=238 gui=NONE cterm=NONE
 hi CursorLine guifg=NONE ctermfg=NONE guibg=#3a3d4d ctermbg=238 gui=NONE cterm=NONE
@@ -77,7 +77,7 @@ hi StatusLineTerm guifg=#f1f1f0 ctermfg=255 guibg=#3a3d4d ctermbg=238 gui=NONE c
 hi StatusLineTermNC guifg=#3a3d4d ctermfg=238 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TabLine guifg=#606580 ctermfg=60 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TabLineSel guifg=#f1f1f0 ctermfg=255 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi TabLineFill guifg=NONE ctermfg=NONE guibg=#191919 ctermbg=234 gui=NONE cterm=NONE
+hi TabLineFill guifg=NONE ctermfg=NONE guibg=#333333 ctermbg=236 gui=NONE cterm=NONE
 hi Terminal guifg=#f1f1f0 ctermfg=255 guibg=#282a36 ctermbg=236 gui=NONE cterm=NONE
 hi Visual guifg=NONE ctermfg=NONE guibg=#3f5263 ctermbg=239 gui=NONE cterm=NONE
 hi VisualNOS guifg=#3f5263 ctermfg=239 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
@@ -106,19 +106,18 @@ hi TSFunction guifg=#cf7777 ctermfg=174 guibg=NONE ctermbg=NONE gui=NONE cterm=N
 hi TSFuncMacro guifg=#d3b373 ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSParameter guifg=#b294bb ctermfg=139 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSParameterReference guifg=#7587a6 ctermfg=103 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi TSMethod guifg=#7587a6 ctermfg=103 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi TSMethod guifg=#cf7777 ctermfg=174 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSField guifg=#cf7777 ctermfg=174 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi TSProperty guifg=#c69650 ctermfg=173 guibg=NONE ctermbg=NONE gui=italic cterm=italic
-hi TSConstructor guifg=#7587a6 ctermfg=103 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi TSProperty guifg=#8f9d6a ctermfg=107 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi TSConstructor guifg=#cf7777 ctermfg=174 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSConditional guifg=#b294bb ctermfg=139 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSRepeat guifg=#b294bb ctermfg=139 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSLabel guifg=#7587a6 ctermfg=103 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi TSKeyword guifg=#b294bb ctermfg=139 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi TSKeyword guifg=#8f9d6a ctermfg=107 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSKeywordFunction guifg=#ff00ff ctermfg=201 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSKeywordOperator guifg=#b294bb ctermfg=139 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSOperator guifg=#b294bb ctermfg=139 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSException guifg=#b294bb ctermfg=139 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi TSType guifg=#d3b373 ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSTypeBuiltin guifg=#7587a6 ctermfg=103 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSStructure guifg=#ff00ff ctermfg=201 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSInclude guifg=#8f9d6a ctermfg=107 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
@@ -131,7 +130,7 @@ hi TSUnderline guifg=#ffff00 ctermfg=226 guibg=NONE ctermbg=NONE gui=NONE cterm=
 hi TSTitle guifg=#ffff00 ctermfg=226 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSLiteral guifg=#ffff00 ctermfg=226 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSURI guifg=#ffff00 ctermfg=226 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi TSTag guifg=#cf7777 ctermfg=174 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi TSTag guifg=#7587a6 ctermfg=103 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSTagDelimiter guifg=#606580 ctermfg=60 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi htmlArg guifg=#d3b373 ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi htmlBold guifg=#d3b373 ctermfg=180 guibg=NONE ctermbg=NONE gui=bold cterm=bold
