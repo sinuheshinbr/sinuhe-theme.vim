@@ -135,7 +135,7 @@ highlights:
     TSMethod: "red"
     TSField: "red"
     TSProperty: "orange - i"
-    TSConstructor: "red"
+    TSConstructor: "blue"
     # Keywords
     TSConditional: "purple"
     TSRepeat: "purple"
