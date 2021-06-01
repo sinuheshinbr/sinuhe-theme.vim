@@ -164,7 +164,8 @@ highlights:
     TSLiteral: "#FFFF00"
     TSURI: "#FFFF00"
     # Tags
-    TSTag: "blue"
+    TSTag: "green"
+    TSNone: "yellow"
     TSTagDelimiter: "line_grey"
     # -- END Treesitter --
 
