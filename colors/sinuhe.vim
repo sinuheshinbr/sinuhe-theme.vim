@@ -50,7 +50,7 @@ hi Directory guifg=#7587a6 ctermfg=103 guibg=NONE ctermbg=NONE gui=NONE cterm=NO
 hi DiffAdd guifg=#282a36 ctermfg=236 guibg=#8f9d6a ctermbg=107 gui=NONE cterm=NONE
 hi DiffChange guifg=#d3b373 ctermfg=180 guibg=NONE ctermbg=NONE gui=underline cterm=underline
 hi DiffDelete guifg=#282a36 ctermfg=236 guibg=#cf7777 ctermbg=174 gui=NONE cterm=NONE
-hi DiffText guifg=#282a36 ctermfg=236 guibg=#d3b373 ctermbg=180 gui=NONE cterm=NONE
+hi DiffText guifg=#282a36 ctermfg=236 guibg=#606580 ctermbg=60 gui=NONE cterm=NONE
 hi ErrorMsg guifg=#bf4040 ctermfg=131 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi VertSplit guifg=#181a1f ctermfg=234 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Folded guifg=#606580 ctermfg=60 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
@@ -64,8 +64,8 @@ hi PmenuSel guifg=#282a36 ctermfg=236 guibg=#7587a6 ctermbg=103 gui=NONE cterm=N
 hi PmenuSbar guifg=NONE ctermfg=NONE guibg=#3b4048 ctermbg=238 gui=NONE cterm=NONE
 hi PmenuThumb guifg=NONE ctermfg=NONE guibg=#f1f1f0 ctermbg=255 gui=NONE cterm=NONE
 hi Question guifg=#b294bb ctermfg=139 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi QuickFixLine guifg=#282a36 ctermfg=236 guibg=#d3b373 ctermbg=180 gui=NONE cterm=NONE
-hi Search guifg=#282a36 ctermfg=236 guibg=#d3b373 ctermbg=180 gui=NONE cterm=NONE
+hi QuickFixLine guifg=#282a36 ctermfg=236 guibg=#606580 ctermbg=60 gui=NONE cterm=NONE
+hi Search guifg=#282a36 ctermfg=236 guibg=#606580 ctermbg=60 gui=NONE cterm=NONE
 hi SpecialKey guifg=#3b4048 ctermfg=238 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi SpellBad guifg=#bf4040 ctermfg=131 guibg=NONE ctermbg=NONE gui=underline cterm=underline
 hi SpellCap guifg=#d3b373 ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
