@@ -105,13 +105,12 @@ highlights:
     WildMenu: "black blue"
     EndOfBuffer: "black"
 
-    javascriptTSFunction: "red"
 
     # -- Start Treesitter --
     # Misc
     TSError: "error_red"
     TSPunctDelimiter: "blue"
-    TSPunctBracket: "visual_grey"
+    TSPunctBracket: "gutter_fg_grey"
     TSPunctSpecial: "purple"
     # Constants
     TSConstant: "blue"
@@ -148,8 +147,8 @@ highlights:
     TSKeywordOperator: "purple"
     TSOperator: "purple"
     TSException: "purple"
-    # TSType: "blue"
-    TSTypeBuiltin: "blue"
+    TSType: "green"
+    #TSTypeBuiltin: "blue"
     TSStructure: "#FF00FF"
     TSInclude: "green"
     # Variable

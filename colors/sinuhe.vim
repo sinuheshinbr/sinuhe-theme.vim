@@ -84,10 +84,9 @@ hi VisualNOS guifg=#3f5263 ctermfg=239 guibg=NONE ctermbg=NONE gui=NONE cterm=NO
 hi WarningMsg guifg=#d3b373 ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi WildMenu guifg=#282a36 ctermfg=236 guibg=#7587a6 ctermbg=103 gui=NONE cterm=NONE
 hi EndOfBuffer guifg=#282a36 ctermfg=236 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi javascriptTSFunction guifg=#cf7777 ctermfg=174 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSError guifg=#bf4040 ctermfg=131 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSPunctDelimiter guifg=#7587a6 ctermfg=103 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi TSPunctBracket guifg=#3f5263 ctermfg=239 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi TSPunctBracket guifg=#4b5263 ctermfg=240 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSPunctSpecial guifg=#b294bb ctermfg=139 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSConstant guifg=#7587a6 ctermfg=103 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSConstBuiltin guifg=#b294bb ctermfg=139 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
@@ -118,7 +117,7 @@ hi TSKeywordFunction guifg=#ff00ff ctermfg=201 guibg=NONE ctermbg=NONE gui=NONE 
 hi TSKeywordOperator guifg=#b294bb ctermfg=139 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSOperator guifg=#b294bb ctermfg=139 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSException guifg=#b294bb ctermfg=139 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi TSTypeBuiltin guifg=#7587a6 ctermfg=103 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi TSType guifg=#8f9d6a ctermfg=107 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSStructure guifg=#ff00ff ctermfg=201 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSInclude guifg=#8f9d6a ctermfg=107 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSVariableBuiltin guifg=#d3b373 ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
