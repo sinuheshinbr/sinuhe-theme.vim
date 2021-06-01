@@ -151,7 +151,7 @@ highlights:
     # TSType: "blue"
     TSTypeBuiltin: "blue"
     TSStructure: "#FF00FF"
-    TSInclude: "green"
+    TSInclude: "purple"
     # Variable
     TSVariable: "green"
     TSVariableBuiltin: "yellow"
