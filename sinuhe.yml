@@ -127,8 +127,7 @@ highlights:
     TSAnnotation: "yellow"
     TSAttribute: "blue"
     TSNamespace: "#FF00FF"
-    # Functions
-    TSFuncBuiltin: "blue"
+    TSFuncBuiltin: "red"
     TSFunction: "red"
     TSFuncMacro: "yellow"
     TSParameter: "purple"
