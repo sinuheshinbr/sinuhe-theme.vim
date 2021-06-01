@@ -143,7 +143,7 @@ highlights:
     TSRepeat: "purple"
     TSLabel: "blue"
     # Does not work for yield and return they should be diff then class and def
-    TSKeyword: "purple"
+    TSKeyword: "green"
     TSKeywordFunction: "#FF00FF"
     TSKeywordOperator: "purple"
     TSOperator: "purple"
@@ -151,9 +151,9 @@ highlights:
     # TSType: "blue"
     TSTypeBuiltin: "blue"
     TSStructure: "#FF00FF"
-    TSInclude: "purple"
+    TSInclude: "green"
     # Variable
-    TSVariable: "green"
+    TSVariable: "blue"
     TSVariableBuiltin: "yellow"
     # Text
     TSText: "#FFFF00"
