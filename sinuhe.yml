@@ -5,7 +5,7 @@ information:
 
 palette:
     fg: "#eff0eb"
-    bg: "#333333"
+    bg: "#262626"
 
     red: "#CF7777"
     error_red: "#bf4040"
@@ -105,11 +105,13 @@ highlights:
     WildMenu: "black blue"
     EndOfBuffer: "black"
 
+    javascriptTSFunction: "red"
+
     # -- Start Treesitter --
     # Misc
     TSError: "error_red"
-    TSPunctDelimiter: "white"
-    TSPunctBracket: "white"
+    TSPunctDelimiter: "blue"
+    TSPunctBracket: "blue"
     TSPunctSpecial: "purple"
     # Constants
     TSConstant: "blue"
@@ -135,7 +137,7 @@ highlights:
     TSMethod: "red"
     TSField: "red"
     TSProperty: "green"
-    TSConstructor: "red"
+    TSConstructor: "blue"
     # Keywords
     TSConditional: "purple"
     TSRepeat: "purple"
