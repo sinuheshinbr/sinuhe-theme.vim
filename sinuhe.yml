@@ -75,7 +75,7 @@ highlights:
     VertSplit: "vertsplit"
     Folded: "line_grey"
     FoldColumn: ""
-    IncSearch: "yellow line_grey"
+    IncSearch: "visual_grey line_grey"
     LineNr: "gutter_fg_grey"
     MatchParen: "blue - u"
     NonText: "special_grey"
@@ -115,7 +115,7 @@ highlights:
     TSPunctSpecial: "purple"
     # Constants
     TSConstant: "blue"
-    TSConstBuiltin: "orange"
+    TSConstBuiltin: "purple"
     # Not sure about this guy
     TSConstMacro: "white"
     TSStringRegex: "green"
@@ -136,14 +136,14 @@ highlights:
     TSParameterReference: "blue"
     TSMethod: "red"
     TSField: "red"
-    TSProperty: "green"
+    TSProperty: "orange - i"
     TSConstructor: "blue"
     # Keywords
     TSConditional: "purple"
     TSRepeat: "purple"
     TSLabel: "blue"
     # Does not work for yield and return they should be diff then class and def
-    TSKeyword: "green"
+    TSKeyword: "purple"
     TSKeywordFunction: "#FF00FF"
     TSKeywordOperator: "purple"
     TSOperator: "purple"
@@ -153,7 +153,7 @@ highlights:
     TSStructure: "#FF00FF"
     TSInclude: "green"
     # Variable
-    TSVariable: "blue"
+    TSVariable: "green"
     TSVariableBuiltin: "yellow"
     # Text
     TSText: "#FFFF00"
