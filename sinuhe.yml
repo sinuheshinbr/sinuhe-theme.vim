@@ -135,7 +135,7 @@ highlights:
     TSParameterReference: "blue"
     TSMethod: "red"
     TSField: "red"
-    TSProperty: "orange - i"
+    TSProperty: "green - i"
     TSConstructor: "blue"
     # Keywords
     TSConditional: "purple"
@@ -163,7 +163,7 @@ highlights:
     TSLiteral: "#FFFF00"
     TSURI: "#FFFF00"
     # Tags
-    TSTag: "green"
+    TSTag: "orange"
     TSNone: "yellow"
     TSTagDelimiter: "line_grey"
     # -- END Treesitter --
