@@ -120,7 +120,7 @@ highlights:
     TSConstMacro: "white"
     TSStringRegex: "green"
     TSString: "yellow"
-    TSStringEscape: "white"
+    TSStringEscape: "yellow"
     TSCharacter: "green"
     TSNumber: "yellow"
     TSBoolean: "purple"
