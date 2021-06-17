@@ -12,9 +12,9 @@ hi Comment guifg=#606580 ctermfg=60 guibg=NONE ctermbg=NONE gui=italic cterm=ita
 hi Constant guifg=#d3b373 ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi String guifg=#849c84 ctermfg=108 guibg=NONE ctermbg=NONE gui=italic cterm=italic
 hi Character guifg=#849c84 ctermfg=108 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi Number guifg=#ba9763 ctermfg=137 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi Number guifg=#c3874b ctermfg=173 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Boolean guifg=#7587a6 ctermfg=103 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi Float guifg=#ba9763 ctermfg=137 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi Float guifg=#c3874b ctermfg=173 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Identifier guifg=#7587a6 ctermfg=103 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Function guifg=#d3b373 ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Statement guifg=#b294bb ctermfg=139 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
@@ -130,7 +130,7 @@ hi TSUnderline guifg=#ffff00 ctermfg=226 guibg=NONE ctermbg=NONE gui=NONE cterm=
 hi TSTitle guifg=#ffff00 ctermfg=226 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSLiteral guifg=#ffff00 ctermfg=226 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSURI guifg=#ffff00 ctermfg=226 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi TSTag guifg=#ba9763 ctermfg=137 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi TSTag guifg=#c3874b ctermfg=173 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSNone guifg=#d3b373 ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSTagDelimiter guifg=#606580 ctermfg=60 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi htmlArg guifg=#d3b373 ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
@@ -189,7 +189,7 @@ hi EasyMotionTarget guifg=#bf4040 ctermfg=131 guibg=NONE ctermbg=NONE gui=bold c
 hi EasyMotionTarget2First guifg=#bf4040 ctermfg=131 guibg=NONE ctermbg=NONE gui=bold cterm=bold
 hi EasyMotionTarget2Second guifg=#bf4040 ctermfg=131 guibg=NONE ctermbg=NONE gui=bold cterm=bold
 hi EasyMotionShade guifg=NONE ctermfg=NONE guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi StartifyNumber guifg=#ba9763 ctermfg=137 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi StartifyNumber guifg=#c3874b ctermfg=173 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi StartifySelect guifg=#849c84 ctermfg=108 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi StartifyBracket guifg=#7587a6 ctermfg=103 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi StartifySpecial guifg=#7587a6 ctermfg=103 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
