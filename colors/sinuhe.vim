@@ -219,8 +219,9 @@ hi VimwikiHeader4 guifg=#d3b373 ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cte
 hi VimwikiHeader5 guifg=#cf7777 ctermfg=174 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi VimwikiHeader6 guifg=#b294bb ctermfg=139 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi VimwikiLink guifg=#849c84 ctermfg=108 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi VimwikiHeaderChar guifg=#262626 ctermfg=235 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi VimwikiHeaderChar guifg=#3b4048 ctermfg=238 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi VimwikiHR guifg=#d3b373 ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi VimwikiList guifg=#b98046 ctermfg=137 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi VimwikiTag guifg=#b98046 ctermfg=137 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi VimwikiMarkers guifg=#262626 ctermfg=235 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi VimWikiMarkers guifg=#3b4048 ctermfg=238 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
