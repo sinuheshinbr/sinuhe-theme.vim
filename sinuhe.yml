@@ -288,12 +288,12 @@ highlights:
     # Directory: "blue - b"
 
   # VimWiki
-    VimwikiHeader1: "orange"
-    VimwikiHeader2: "green"
-    VimwikiHeader3: "blue"
-    VimwikiHeader4: "yellow"
-    VimwikiHeader5: "red"
-    VimwikiHeader6: "purple"
+    VimwikiHeader1: "orange - b"
+    VimwikiHeader2: "green - b"
+    VimwikiHeader3: "blue - b"
+    VimwikiHeader4: "yellow - b"
+    VimwikiHeader5: "red - b"
+    VimwikiHeader6: "purple - b"
     VimwikiLink: "green"
     VimwikiHeaderChar: "special_grey"
     VimwikiHR: "yellow"
