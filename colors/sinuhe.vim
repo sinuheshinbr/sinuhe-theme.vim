@@ -5,7 +5,7 @@ hi clear
 if exists('syntax_on')
   syntax reset
 endif
-let g:colors_name='sinuhe'
+let g:colors_name='metanoia'
 
 hi Normal guifg=#7587a6 ctermfg=103 guibg=#262626 ctermbg=235 gui=NONE cterm=NONE
 hi Comment guifg=#606580 ctermfg=60 guibg=NONE ctermbg=NONE gui=italic cterm=italic
@@ -212,3 +212,15 @@ hi diffNewFile guifg=#849c84 ctermfg=108 guibg=NONE ctermbg=NONE gui=NONE cterm=
 hi diffOldFile guifg=#cf7777 ctermfg=174 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi debugPc guifg=NONE ctermfg=NONE guibg=#7587a6 ctermbg=103 gui=NONE cterm=NONE
 hi debugBreakpoint guifg=#cf7777 ctermfg=174 guibg=NONE ctermbg=NONE gui=reverse cterm=reverse
+hi VimwikiHeader1 guifg=#b98046 ctermfg=137 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi VimwikiHeader2 guifg=#849c84 ctermfg=108 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi VimwikiHeader3 guifg=#7587a6 ctermfg=103 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi VimwikiHeader4 guifg=#d3b373 ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi VimwikiHeader5 guifg=#cf7777 ctermfg=174 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi VimwikiHeader6 guifg=#b294bb ctermfg=139 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi VimwikiLink guifg=#849c84 ctermfg=108 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi VimwikiHeaderChar guifg=#262626 ctermfg=235 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi VimwikiHR guifg=#d3b373 ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi VimwikiList guifg=#b98046 ctermfg=137 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi VimwikiTag guifg=#b98046 ctermfg=137 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi VimwikiMarkers guifg=#262626 ctermfg=235 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE

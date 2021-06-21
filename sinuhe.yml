@@ -1,5 +1,5 @@
 information:
-    name: sinuhe
+    name: metanoia
     background: dark
     author: "Sinuhe Shin <sinuheshin@gmail.com>"
 
@@ -27,7 +27,6 @@ palette:
 
 highlights:
     Normal: "blue bg"
-
     Comment: "line_grey - i"
     Constant: "yellow"
     String: "green - i"
@@ -105,7 +104,6 @@ highlights:
     WarningMsg: "yellow"
     WildMenu: "black blue"
     EndOfBuffer: "black"
-
 
     # -- Start Treesitter --
     # Misc
@@ -288,3 +286,17 @@ highlights:
     # MoreMsg: "green - br"
     # Question: "blue - br"
     # Directory: "blue - b"
+
+  # VimWiki
+    VimwikiHeader1: "orange"
+    VimwikiHeader2: "green"
+    VimwikiHeader3: "blue"
+    VimwikiHeader4: "yellow"
+    VimwikiHeader5: "red"
+    VimwikiHeader6: "purple"
+    VimwikiLink: "green"
+    VimwikiHeaderChar: "bg"
+    VimwikiHR: "yellow"
+    VimwikiList: "orange"
+    VimwikiTag: "orange"
+    VimwikiMarkers: "bg"
