@@ -100,7 +100,7 @@ hi TSBoolean guifg=#b294bb ctermfg=139 guibg=NONE ctermbg=NONE gui=NONE cterm=NO
 hi TSFloat guifg=#849c84 ctermfg=108 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSAnnotation guifg=#d3b373 ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSAttribute guifg=#7587a6 ctermfg=103 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi TSNamespace guifg=#ff00ff ctermfg=201 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi TSNamespace guifg=#7587a6 ctermfg=103 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSFuncBuiltin guifg=#cf7777 ctermfg=174 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSFunction guifg=#cf7777 ctermfg=174 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSFuncMacro guifg=#d3b373 ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
