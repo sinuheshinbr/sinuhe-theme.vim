@@ -144,7 +144,7 @@ highlights:
   "@keyword.operator": "purple"
   "@operator": "purple"
   "@exception": "purple"
-  "@type": "green"
+  "@type": "yellow"
   #TSTypeBuiltin: "blue"
   "@structure": "#FF00FF"
   "@include": "green"
@@ -162,6 +162,7 @@ highlights:
   # Tags
   "@tag": "orange"
   "@tag.delimiter": "line_grey"
+  "@tag.attribute": "green"
   "@none": "yellow"
   # -- END Treesitter --
 
