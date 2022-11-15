@@ -59,7 +59,7 @@ highlights:
   Underlined: "blue . u"
   Cursor: "- - r"
   PunctDelimiter: "blue"
-  PunctBracket: "gutter_fg_grey"
+  punctuation.bracket: "gutter_fg_grey"
 
   ColorColumn: "- cursor_grey"
   CursorLineNr: "white - b"
