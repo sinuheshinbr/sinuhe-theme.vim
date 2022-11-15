@@ -58,7 +58,8 @@ highlights:
   Todo: "purple - bi"
   Underlined: "blue . u"
   Cursor: "- - r"
-  Punctuation.bracket: "line_grey"
+  PunctDelimiter: "blue"
+  PunctBracket: "gutter_fg_grey"
 
   ColorColumn: "- cursor_grey"
   CursorLineNr: "white - b"
