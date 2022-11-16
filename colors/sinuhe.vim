@@ -118,7 +118,7 @@ hi @keyword.function guifg=#b294bb ctermfg=139 guibg=NONE ctermbg=NONE gui=NONE 
 hi @keyword.operator guifg=#b294bb ctermfg=139 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi @operator guifg=#b294bb ctermfg=139 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi @exception guifg=#b294bb ctermfg=139 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi @type guifg=#d3b373 ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi @type guifg=#849c84 ctermfg=108 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi @structure guifg=#ff00ff ctermfg=201 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi @include guifg=#849c84 ctermfg=108 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi @variable guifg=#7587a6 ctermfg=103 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
