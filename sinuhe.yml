@@ -144,7 +144,7 @@ highlights:
   "@keyword.operator": "purple"
   "@operator": "purple"
   "@exception": "purple"
-  "@type": "blue"
+  "@type": "green"
   #TSTypeBuiltin: "blue"
   "@structure": "#FF00FF"
   "@include": "green"
