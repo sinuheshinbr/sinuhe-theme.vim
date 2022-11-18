@@ -144,8 +144,8 @@ highlights:
   "@keyword.operator": "purple"
   "@operator": "purple"
   "@exception": "purple"
-  "@type": "green"
-  #TSTypeBuiltin: "blue"
+  "@type": "blue"
+  "@type.builtin": "blue"
   "@structure": "#FF00FF"
   "@include": "green"
   # Variable
