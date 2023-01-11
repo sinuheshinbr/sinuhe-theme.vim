@@ -133,7 +133,7 @@ highlights:
   "@method": "red"
   "@field": "red"
   "@property": "green - i"
-  "@constructor": "purple"
+  # "@constructor": "purple"
   # Keywords
   "@conditional": "purple"
   "@repeat": "purple"
@@ -158,7 +158,6 @@ highlights:
   "@underline": "#FFFF00"
   "@title": "#FFFF00"
   "@literal": "#FFFF00"
-  TSURI: "#FFFF00"
   # Tags
   "@tag": "orange"
   "@tag.delimiter": "line_grey"

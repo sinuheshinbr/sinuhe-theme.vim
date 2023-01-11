@@ -109,7 +109,6 @@ hi @parameter.reference guifg=#7587a6 ctermfg=103 guibg=NONE ctermbg=NONE gui=NO
 hi @method guifg=#cf7777 ctermfg=174 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi @field guifg=#cf7777 ctermfg=174 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi @property guifg=#849c84 ctermfg=108 guibg=NONE ctermbg=NONE gui=italic cterm=italic
-hi @constructor guifg=#b294bb ctermfg=139 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi @conditional guifg=#b294bb ctermfg=139 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi @repeat guifg=#b294bb ctermfg=139 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi @label guifg=#7587a6 ctermfg=103 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
@@ -130,7 +129,6 @@ hi @emphasis guifg=#ffff00 ctermfg=226 guibg=NONE ctermbg=NONE gui=NONE cterm=NO
 hi @underline guifg=#ffff00 ctermfg=226 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi @title guifg=#ffff00 ctermfg=226 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi @literal guifg=#ffff00 ctermfg=226 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi TSURI guifg=#ffff00 ctermfg=226 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi @tag guifg=#b98046 ctermfg=137 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi @tag.delimiter guifg=#606580 ctermfg=60 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi @tag.attribute guifg=#849c84 ctermfg=108 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
