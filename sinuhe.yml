@@ -133,7 +133,7 @@ highlights:
   "@method": "red"
   "@field": "red"
   "@property": "green - i"
-  "@constructor": "red"
+  "@constructor": "purple"
   # Keywords
   "@conditional": "purple"
   "@repeat": "purple"
