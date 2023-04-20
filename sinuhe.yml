@@ -127,7 +127,7 @@ highlights:
   "@namespace": "blue"
   "@function.builtin": "red"
   "@function": "red"
-  "@function.macro": "yellow"
+  "@function.macro": "red"
   "@parameter": "purple"
   "@parameter.reference": "blue"
   "@method": "red"
